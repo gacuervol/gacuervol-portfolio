@@ -22,7 +22,7 @@
 ### 2. **🌊 Computational Oceanography**  
 *Marine data simulations, modeling, and analysis.*  
 - [Madagascar Eddies Modeling](link): Master's thesis with 3D visualization.  
-- [Oceanic Heatflow Analysis](link): Thermal flux processing in oceanic crust.  
+- [Oceanic Heatflow Analysis](https://github.com/gacuervol/oceanic-heatflow/tree/main): Thermal flux processing in oceanic crust.  
 - [Python Workshops for Oceanographers](link): Educational notebooks (UNAL, ULPGC).  
 
 ### 3. **🗺️ Geology & Geospatial Analysis**  
