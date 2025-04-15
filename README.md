@@ -1,4 +1,4 @@
-# Giovanny Cuervo Londoño | Data Science Portfolio  
+# Giovanny Alejandro Cuervo Londoño | Data Science Portfolio  
 *Geologist | Oceanographer | Data Scientist*  
 *Applying Python, Machine Learning & GIS to solve geoenvironmental challenges*  
 
