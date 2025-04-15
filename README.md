@@ -43,11 +43,12 @@
 - **By technology**: Search for `#python`, `#pytorch`, `#gis`.  
 - **By field**: Explore `#oceanography`, `#geology`, `#remotesensing`.  
 
-🔗 **Quick Links**:  
-- [📄 Academic CV](link)  
-- [🔬 ResearchGate](link)  
-- [💼 LinkedIn](link)  
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanny_Cuervo-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/giovanny-alejandro-cuervo-londoño-b446ab23b)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate)]([https://researchgate.net/tu-perfil](https://www.researchgate.net/profile/Giovanny-Cuervo-Londono))  
+[![Email](https://img.shields.io/badge/Email-giovanny.cuervo%40alu.ulpgc.es-D14836?style=for-the-badge&logo=gmail)](mailto:giovanny.cuervo101@alu.ulpgc.es)
 
----
-
-> 💡 *Interested in collaboration? Reach out!* ✉️ `giovanny.cuervo101@alu.ulpgc.es` 
+> 💡 **How to reach me**:  
+> - **Collaborations**: Open to research partnerships  
+> - **Questions**: Best via email ✉️ `giovanny.cuervo101@alu.ulpgc.es` 
+> - **Job Opportunities**: LinkedIn preferred
