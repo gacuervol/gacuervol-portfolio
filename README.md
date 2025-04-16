@@ -15,7 +15,8 @@
 
 ### 1. **📊 Machine Learning & Data Science**  
 *AI/ML projects applied to geospatial and oceanographic data.*  
-- [Panama Basin Heatflow Clustering](https://github.com/gacuervol/unsupervised-ml-heatflow/tree/main): Unsupervised ML analysis of heat flow patterns using K-Means and Hierarchical Clustering (Python/Scikit-learn)  
+- [Panama Basin Heatflow Clustering](https://github.com/gacuervol/unsupervised-ml-heatflow/tree/main): Unsupervised ML analysis of heat flow patterns using K-Means and Hierarchical Clustering (Python/Scikit-learn)
+- [NLP Topic Analysis](https://github.com/gacuervol/TopicModeling-NLP-RemoteSensing): Automated topic extraction from 200+ scientific papers using LDA and web scraping (Python, Scikit-learn, PyLDAvis, Selenium, NLTK, spaCy).
 - [Oil Spill Prediction with OceanParcels](link): Lagrangian particle tracking in Python.  
 - [Satellite Image Classification](link): PyTorch-based coastal pattern detection.  
 - [Invoice Data Extraction](link): NLP using Bag-of-Words (published paper).  
