@@ -22,8 +22,9 @@
 
 ### 2. **🌊 Computational Oceanography**  
 *Marine data simulations, modeling, and analysis.*  
+- [Oceanic Heatflow Analysis](https://github.com/gacuervol/oceanic-heatflow/tree/main): Thermal flux processing in oceanic crust.
+- [Big Data & Caribbean Coastal Geomorphology](https://github.com/gacuervol/BigData-geospatial-caribbean/tree/main): Characterization of the Colombian Caribbean coast using Big Data (MongoDB) and geospatial analysis (Python, Plotly). 
 - [Madagascar Eddies Modeling](link): Master's thesis with 3D visualization.  
-- [Oceanic Heatflow Analysis](https://github.com/gacuervol/oceanic-heatflow/tree/main): Thermal flux processing in oceanic crust.  
 - [Python Workshops for Oceanographers](link): Educational notebooks (UNAL, ULPGC).  
 
 ### 3. **🗺️ Geology & Geospatial Analysis**  
