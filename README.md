@@ -15,17 +15,17 @@
 
 ### 1. **📊 Machine Learning & Data Science**  
 *AI/ML projects applied to geospatial and oceanographic data.*  
-- [Panama Basin Heatflow Clustering](https://github.com/gacuervol/unsupervised-ml-heatflow/tree/main): Unsupervised ML analysis of heat flow patterns using K-Means and Hierarchical Clustering (Python/Scikit-learn).
-- [NLP Topic Analysis](https://github.com/gacuervol/TopicModeling-NLP-RemoteSensing): Automated topic extraction from 200+ scientific papers using LDA and web scraping (Python, Scikit-learn, PyLDAvis, Selenium, NLTK, spaCy).
 - [Deep Learning Cetacean Vocalization Recognition](https://github.com/gacuervol/DeepLearning-cetacean-sounds/tree/main): Classification of marine mammal sounds using YAMNet embeddings and data augmentation techniques (Python, TensorFlow, YAMNet, Librosa, Scikit-learn).
+- [NLP Topic Analysis](https://github.com/gacuervol/TopicModeling-NLP-RemoteSensing): Automated topic extraction from 200+ scientific papers using LDA and web scraping (Python, Scikit-learn, PyLDAvis, Selenium, NLTK, spaCy).
+- [Panama Basin Heatflow Clustering](https://github.com/gacuervol/unsupervised-ml-heatflow/tree/main): Unsupervised ML analysis of heat flow patterns using K-Means and Hierarchical Clustering (Python/Scikit-learn).
 - [Oil Spill Prediction with OceanParcels](link): Lagrangian particle tracking in Python.  
 - [Satellite Image Classification](link): PyTorch-based coastal pattern detection.  
 - [Invoice Data Extraction](link): NLP using Bag-of-Words (published paper).  
 
 ### 2. **🌊 Computational Oceanography**  
 *Marine data simulations, modeling, and analysis.*  
-- [Oceanic Heatflow Analysis](https://github.com/gacuervol/oceanic-heatflow/tree/main): Thermal flux processing in oceanic crust.
 - [Big Data & Caribbean Coastal Geomorphology](https://github.com/gacuervol/BigData-geospatial-caribbean/tree/main): Characterization of the Colombian Caribbean coast using Big Data (MongoDB) and geospatial analysis (Python, Plotly). 
+- [Oceanic Heatflow Analysis](https://github.com/gacuervol/oceanic-heatflow/tree/main): Thermal flux processing in oceanic crust.
 - [Madagascar Eddies Modeling](link): Master's thesis with 3D visualization.  
 - [Python Workshops for Oceanographers](link): Educational notebooks (UNAL, ULPGC).  
 
