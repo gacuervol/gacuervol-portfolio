@@ -15,6 +15,7 @@
 
 ### 1. **📊 Machine Learning & Data Science**  
 *AI/ML projects applied to geospatial and oceanographic data.*  
+- [Geospatial Heat Flux Prediction](https://github.com/gacuervol/Geospatial-HeatFlow-ML): Prediction of seafloor heat flux using sediment thickness and spatial ML with SVR, deployed via FastAPI (Python, Scikit-learn, FastAPI, GeoPandas, PyTorch).
 - [Deep Learning Cetacean Vocalization Recognition](https://github.com/gacuervol/DeepLearning-cetacean-sounds/tree/main): Classification of marine mammal sounds using YAMNet embeddings and data augmentation techniques (Python, TensorFlow, YAMNet, Librosa, Scikit-learn).
 - [NLP Topic Analysis](https://github.com/gacuervol/TopicModeling-NLP-RemoteSensing): Automated topic extraction from 200+ scientific papers using LDA and web scraping (Python, Scikit-learn, PyLDAvis, Selenium, NLTK, spaCy).
 - [Panama Basin Heatflow Clustering](https://github.com/gacuervol/unsupervised-ml-heatflow/tree/main): Unsupervised ML analysis of heat flow patterns using K-Means and Hierarchical Clustering (Python/Scikit-learn).
